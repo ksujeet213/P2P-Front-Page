@@ -1,0 +1,1 @@
+<i style='font-size:24px' class='fas'>&#xf100;</i>
